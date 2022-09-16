@@ -1,4 +1,4 @@
-[![MasterHead]([https://image.shutterstock.com/image-illustration/banner-about-programming-coding-course-260nw-1887006397.jpg](https://rishavchanda.io)
+<!-- <img align= "center" style="margin-left: 200px;important!" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflmIBa8xntEWtn-ZTqI9bwruLmLBu4TKGHA&usqp=CAU"> -->
 <h1 align="center">Hi 👋, I'm Prakanshu Sahu</h1>
 <h3 align="center">Software Engineer passionate for programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
