@@ -7,6 +7,27 @@
 
 - 📫 How to reach me **prakanshusahu@gmail.com**
 
+<h2> 🌟 What I Do </h2>
+<p><b>Craft Scalable Systems:</b> Architected and optimized systems capable of handling peak traffic of 12M+ users and high OPS with robust performance.</p>
+<p><b>Database Wizardry:</b> Reduced database load by 40-45%, optimized queries, and implemented seamless migrations using tools like AWS DMS.</p>
+<p><b>Microservices Champion:</b> Migrated monolithic features into dedicated microservices, ensuring clarity, maintainability, and performance.<p>
+<p><b>Innovation & Features:</b> Designed user-centric features like Skill Score and Timeline, improving engagement and retention.</p>
+
+<h2>🛠️ Skills & Technologies</h2>
+<p></p><b>Languages & Frameworks:</b> JavaScript, Node.js, Express.js</p>
+<p><b>Databases:</b> MySQL, PostgreSQL, MongoDB, Redis</p>
+<p><b>Tools:</b> AWS, Docker, K6 (load testing), Kong Gateway, Git</p>
+<p><b>Architecture:</b> Microservices, API Design, Scalable Systems</p> 
+
+<h2>🌐 What You’ll Find Here</h2>
+<p>High-quality repositories showcasing my expertise in backend development.</p>
+<p>Tools, libraries, and scripts I’ve created or contributed to improve scalability and system reliability.</p>
+<p>Insights into my journey solving real-world engineering challenges.</p>
+
+<h2>✨ Let’s Collaborate!</h2>
+I’m open to collaborating on exciting projects that push boundaries in backend development, system design, and performance optimization. Let’s build something amazing together!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakanshusahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakanshusahu" height="30" width="40" /></a>
